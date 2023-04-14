@@ -1,0 +1,85 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    margin: 0;
+
+}
+
+
+header {
+
+    background-color: #E2F3FD;
+
+    color: #fff;
+
+    padding: 10px;
+
+}
+
+
+nav ul {
+
+    margin: 0;
+
+    padding: 0;
+
+    list-style: none;
+
+    display: flex;
+
+    justify-content: space-between;
+
+}
+
+
+nav ul li {
+
+    display: inline-block;
+
+}
+
+
+nav ul li a {
+
+    color: Black;
+
+    text-decoration: none;
+
+    padding: 10px;
+
+    font-size: 20px;
+
+}
+
+
+nav ul li a:hover {
+
+    background-color: #555;
+
+}
+
+.logo_area{
+    font-weight: bold;
+}
+
+span{
+    color: darkgreen;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.profile-pic{
+    width: 132px;
+    height: 132px;
+    border-radius: 66px;
+}
+
+.copyright{
+    margin-top: 300px;
+}
